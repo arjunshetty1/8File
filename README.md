@@ -67,3 +67,5 @@ By [Anush008](https://github.com/Anush008) with ❤️.
 ## ⚖️ LICENSE
 
 MIT © [2023](https://github.com/Anush008/8-File/blob/main/LICENSE)
+
+**Now Owned By Revoriant Vetures LLP**
